@@ -1,6 +1,14 @@
 /* Give your page a fun background color */
-
+body { background: blue}
 /* Make the header and footer a different color from the background */
+h1 {color:white; text-align: center}
+header {color:green}
+footer {color:white;font-style: italic;text-align: center;}
+.center { display: block;margin-left: auto;margin-right: auto;width: 50%;border: 25pix color:red}
+img {
+  border: 10px solid #444;}
+ul {font-family: cursive;text-align: center;font-weight: bold;letter-spacing: 3px}
+
 
 /* Align the h1 containing your name in the center of the header*/
 
